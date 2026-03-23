@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="GRC Sentinel Requests">b322ee2583373210f6b1fb96feaad3e9</dashboard>
+        <dashboard_tab display_value="Tab">b322ee2583373210f6b1fb96feaad3ff</dashboard_tab>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 06:36:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b322226583373210f6b1fb96feaad303</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="GRC Sentinel" source="x_1821654_grcs">7a22ae2583373210f6b1fb96feaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GRC Sentinel">7a22ae2583373210f6b1fb96feaad358</sys_scope>
+        <sys_update_name>par_dashboard_canvas_b322226583373210f6b1fb96feaad303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 06:36:06</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

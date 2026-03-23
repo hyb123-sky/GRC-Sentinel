@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="fe22ae2583373210f6b1fb96feaad372" extends="sn_creatorstudio_task" label="GRC Sentinel Request" max_length="40" name="x_1821654_grcs_request" type="collection"/>
+</database>

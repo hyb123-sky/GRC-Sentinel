@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="GRC Sentinel Audience">f722ee2583373210f6b1fb96feaad3c7</applicability>
+        <list display_value="All">b322ee2583373210f6b1fb96feaad3e2</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 06:36:04</sys_created_on>
+        <sys_id>f722ee2583373210f6b1fb96feaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="GRC Sentinel" source="x_1821654_grcs">7a22ae2583373210f6b1fb96feaad358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GRC Sentinel">7a22ae2583373210f6b1fb96feaad358</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_f722ee2583373210f6b1fb96feaad3e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 06:36:04</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>
