@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="e17a6a2983773210f6b1fb96feaad3f8" label="Entity Class" max_length="40" name="x_1821654_grcs_entity_class" type="collection">
+        <element default="true" display="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element choice="1" default="enterprise" label="Scope" mandatory="true" max_length="40" name="scope" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="enterprise" value="enterprise"/>
+                <element inactive_on_update="false" label="department" value="department"/>
+                <element inactive_on_update="false" label="project" value="project"/>
+            </choice>
+        </element>
+        <element label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element choice="1" label="Csdm level" mandatory="true" max_length="40" name="csdm_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="technical service" value="technical_service"/>
+                <element inactive_on_update="false" label="infrastructure" value="infrastructure"/>
+                <element inactive_on_update="false" label="business service" value="business_service"/>
+                <element inactive_on_update="false" label="application service" value="application_service"/>
+                <element inactive_on_update="false" label="business capability" value="business_capability"/>
+            </choice>
+        </element>
+        <element label="description" max_length="500" name="description" type="string"/>
+        <element default="100" label="Order" max_length="40" name="order" type="integer"/>
+    </element>
+</database>
